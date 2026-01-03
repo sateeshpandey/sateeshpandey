@@ -152,8 +152,6 @@ Noida Institute of Engineering & Technology
 	•	Kubernetes & Cloud Architecture
 	•	Building and sharing knowledge in public 🚀
 
+
 ⸻
-
-⭐ If you find my repositories helpful, feel free to star them and follow my journey.
-
 
